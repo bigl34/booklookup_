@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Python Chrome Plugin",
-  "description": "This extension runs Python code.",
+  "name": "Booklookup",
+  "description": "This extension looks up the book on the Amazon page you are on on libgen.",
   "version": "1.0",
 
   "browser_action": {
